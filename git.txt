@@ -1,1 +1,9 @@
+
 This is master.
+
+Creating a new branch is quick AND simple.
+
+This is feature1.
+
+This is still.
+
