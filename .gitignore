@@ -1,10 +1,10 @@
 #忽略程序集文件
 #Bin 目录用来保存项目生成后程序集，debug文件夹，里面包含生成的程序，可以忽略
-/WindowsFormsApp1/WindowsFormsApp1/bin
+/Teamproject/WindowsFormsApp1/bin
 
 #忽略编译结果
 #obj目录是用来保存每个模块的编译结果，在.NET中，编译是分模块进行的，编译整个完成后会合并为一个.DLL或.EXE保存到bin目录下。也可以忽略
-/WindowsFormsApp1/WindowsFormsApp1/obj
+/Teamproject/WindowsFormsApp1/obj
 
 #不可以忽略的
 
