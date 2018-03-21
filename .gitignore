@@ -1,4 +1,4 @@
-#忽略程序集文件
+D#忽略程序集文件
 #Bin 目录用来保存项目生成后程序集，debug文件夹，里面包含生成的程序，可以忽略
 /TDP/WindowsFormsApp1/bin/Debug
 
